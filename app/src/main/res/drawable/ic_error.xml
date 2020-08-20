@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:bottom="0dp"
+        android:drawable="@color/colorTextTertiary"
+        android:left="5dp"
+        android:right="5dp"
+        android:top="0dp" />
+
+
+    <item
+        android:bottom="15dp"
+        android:drawable="@drawable/ic_broken_image_black"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="15dp" />
+
+</layer-list>

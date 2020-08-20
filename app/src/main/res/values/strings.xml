@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notflix</string>
+    <string name="title_header">NOTFLIX</string>
+    <string name="tv_show">TV Shows</string>
+    <string name="movies">Movies</string>
+
+    <string name="title">Title</string>
+    <string name="genre">Action, Drama</string>
+    <string name="rating">8.4</string>
+    <string name="rating_small">/10</string>
+    <string name="country">USA</string>
+    <string name="description">The Boys is set in a universe where superpowered people are recognized as heroes by the general public and owned by powerful corporation Vought International, which ensures that they are aggressively marketed and monetized. Outside of their heroic personas, most are arrogant and corrupt.</string>
+    <string name="creators">Creators :</string>
+    <string name="tagline">Tagline :</string>
+    <string name="stars">Stars :</string>
+    <string name="stars_name">Fauzan Akmal, NazuDis</string>
+    <string name="thumbnail">thumbnail_movie</string>
+    <string name="image_poster">Poster Image</string>
+
+</resources>
